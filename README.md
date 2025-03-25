@@ -1,6 +1,12 @@
 # SCN-Per1-TS-Analysis
 Time series and differential gene expression analysis of Per1 gene expression in the Suprachiasmatic Nucleus of Mice brains
 
+## Time series Analysis 
+
+Download raw SCN images from "Circadian Rhythm in the Brain" kaggle dataset
+Isolate SCN Venus fluorophore expression loci.
+
+Fit Regression line -> Fit ARIMA model on residuals -> Fit Neural Net on residuals
 
 ## Differential Gene Expression
 
